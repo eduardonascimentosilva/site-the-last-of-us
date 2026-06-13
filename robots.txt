@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /secreto/
+Sitemap: https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/sitemap.xml
